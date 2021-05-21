@@ -18,7 +18,7 @@ class Student {
         return usn;
     }
 
-    String printprogram() {
+    String printProgram() {
         return program;
     }
 
@@ -52,7 +52,7 @@ public class exp1a {
             System.out.println("Displaying Entered student details:");
             System.out.println("Name \tUSN \tProgram \tPhone");
             for(int i = 0; i < n; i++)
-                System.out.println(s[i].printName() + " \t" + s[i].printUsn() + " \t" + s[i].printprogram() + " \t" + s[i].printPhone());
+                System.out.println(s[i].printName() + " \t" + s[i].printUsn() + " \t" + s[i].printProgram() + " \t" + s[i].printPhone());
         }catch(Exception e){}
     }
 }
