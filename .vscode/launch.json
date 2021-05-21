@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch exp1a",
+            "request": "launch",
+            "mainClass": "exp1a",
+            "projectName": "DAA Lab_f2b0095a"
+        },
+        {
+            "type": "java",
             "name": "Launch exp1",
             "request": "launch",
             "mainClass": "exp1",
