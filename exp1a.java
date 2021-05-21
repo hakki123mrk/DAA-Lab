@@ -7,7 +7,7 @@ class Student {
         usn = u;
         name = n;
         program = p;
-        phone = p;
+        phone = ph;
     }
     
     String printName() {
