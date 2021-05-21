@@ -1,0 +1,43 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch exp1",
+            "request": "launch",
+            "mainClass": "exp1",
+            "projectName": "DAA Lab_f2b0095a"
+        },
+        {
+            "type": "java",
+            "name": "Launch example1",
+            "request": "launch",
+            "mainClass": "example1",
+            "projectName": "DAA Lab_f2b0095a"
+        },
+        {
+            "type": "java",
+            "name": "Launch example4",
+            "request": "launch",
+            "mainClass": "example4",
+            "projectName": "DAA Lab_f2b0095a"
+        },
+        {
+            "type": "java",
+            "name": "Launch example3",
+            "request": "launch",
+            "mainClass": "example3",
+            "projectName": "DAA Lab_f2b0095a"
+        },
+        {
+            "type": "java",
+            "name": "Launch example2",
+            "request": "launch",
+            "mainClass": "example2",
+            "projectName": "DAA Lab_f2b0095a"
+        }
+    ]
+}
