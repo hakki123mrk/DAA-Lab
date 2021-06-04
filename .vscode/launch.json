@@ -6,52 +6,16 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch exp2a",
+            "name": "Launch exp2b",
             "request": "launch",
-            "mainClass": "exp2a",
+            "mainClass": "exp2b",
             "projectName": "DAA Lab_f2b0095a"
         },
         {
             "type": "java",
-            "name": "Launch exp1a",
+            "name": "Launch Current File",
             "request": "launch",
-            "mainClass": "exp1a",
-            "projectName": "DAA Lab_f2b0095a"
-        },
-        {
-            "type": "java",
-            "name": "Launch exp1",
-            "request": "launch",
-            "mainClass": "exp1",
-            "projectName": "DAA Lab_f2b0095a"
-        },
-        {
-            "type": "java",
-            "name": "Launch example1",
-            "request": "launch",
-            "mainClass": "example1",
-            "projectName": "DAA Lab_f2b0095a"
-        },
-        {
-            "type": "java",
-            "name": "Launch example4",
-            "request": "launch",
-            "mainClass": "example4",
-            "projectName": "DAA Lab_f2b0095a"
-        },
-        {
-            "type": "java",
-            "name": "Launch example3",
-            "request": "launch",
-            "mainClass": "example3",
-            "projectName": "DAA Lab_f2b0095a"
-        },
-        {
-            "type": "java",
-            "name": "Launch example2",
-            "request": "launch",
-            "mainClass": "example2",
-            "projectName": "DAA Lab_f2b0095a"
+            "mainClass": "${file}"
         }
     ]
 }
