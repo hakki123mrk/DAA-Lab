@@ -14,7 +14,7 @@ class Quick {
             a[i] = rand.nextInt(100);
         System.out.println("Array elements to be sorted are :");
         for(int i = 0; i < n; i++)
-            System.out.println(a[i] + " ");
+            System.out.print(a[i] + " ");
         
         int low = 0, high = n-1;
         a[n] = 999;
