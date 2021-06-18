@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-class Quick {
+class exp4 {
     static int a[] = new int[1000000];
     public static void main(String[] args) 
     throws ArrayIndexOutOfBoundsException {
