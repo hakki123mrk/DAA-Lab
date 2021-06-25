@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch exp6",
+            "request": "launch",
+            "mainClass": "exp6",
+            "projectName": "DAA Lab_f2b0095a"
+        },
+        {
+            "type": "java",
+            "name": "Launch exp3b",
+            "request": "launch",
+            "mainClass": "exp3b",
+            "projectName": "DAA Lab_f2b0095a"
+        },
+        {
+            "type": "java",
             "name": "Launch exp5",
             "request": "launch",
             "mainClass": "exp5",
